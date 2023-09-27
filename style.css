@@ -41,6 +41,10 @@ section {
   margin-top: 2rem;
 }
 
+.card {
+  width: 18rem;
+}
+
 .card-img-top {
   object-fit: cover;
   width: 250px;
